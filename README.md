@@ -33,7 +33,7 @@ A React-based markdown notes application that works seamlessly offline and syncs
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/abhishek150-rt/offline-notes-app.git
 cd offline-notes-app
 
 # Install dependencies
